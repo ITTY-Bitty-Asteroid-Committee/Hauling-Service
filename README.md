@@ -3,6 +3,4 @@
 ## 6/25/25
 ### Welcome to the Hauling Service. This is a Work in Progress.
 
-## 7/8/25
-### Making significant progress through HTML.
-### If you wish to help out, reach out to me! Through Discord.
+## If you ever come across any issues, please list it in the Issues section, and we will fix it when we can. Thank you!
